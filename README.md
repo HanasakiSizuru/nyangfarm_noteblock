@@ -1,10 +1,10 @@
 # nyangfarm_noteblock
 
-##냥팜 악보 제작 편의성 프로젝트
+## 냥팜 악보 제작 편의성 프로젝트
 
-##Noteblock Studio의 data pack file을 이용한 마우스 제어 프로그램
+## Noteblock Studio의 data pack file을 이용한 마우스 제어 프로그램
 
-#주의사항
+# 주의사항
 1. **Noteblock Studio** 를 이용하여 악보를 제작해 주세요.
 
 2. 가능한 악기는 **'냥팜에 있는 악기 중 "높은 종"을 제외한 악기'** 입니다.
